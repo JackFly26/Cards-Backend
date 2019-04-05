@@ -1,0 +1,17 @@
+name: Cards
+version: 0.1.0
+
+authors:
+  - JackFly26 <jackfleishman@outlook.com>
+
+targets:
+  Cards:
+    main: src/Cards.cr
+
+dependencies:
+  kemal: 
+    github: kemalcr/kemal
+
+crystal: 0.27.2
+
+license: MIT
